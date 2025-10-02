@@ -50,7 +50,7 @@ This project proposes an efficient implementation of **IoT (Internet of Things)*
 
 ---
 
-## 📸 Demo & Working (Optional)  
+## 📸 Demo & Working  
 (<img src="Home%20Automation%20Prototype_1.jpg" alt="Circuit Diagram" width="200">)
 (<img src="Home%20Auomation%20Prototype_2.jpg" alt="Circuit Diagram" width="200">)
 
@@ -65,3 +65,4 @@ This project proposes an efficient implementation of **IoT (Internet of Things)*
 
 ## 👨‍💻 Authors  
 **Team Project** – Led by *[Vishal Singh]*, managed backend logic, database operations, and documentation.  
+**Team Members** - Vishal Singh , Lakshya Singh, Shiva Gupta , Dev Lodhi.
