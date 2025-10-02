@@ -18,7 +18,7 @@ This project proposes an efficient implementation of **IoT (Internet of Things)*
 ## 🏗 IoT Architecture  
 
 ### 1. Auto Street Lighting  
-![Auto Street Lighting](images/1.jpg)  
+![Auto Street Lighting](https://github.com/vishal3432/Home-Automation-Major-Project-/blob/b2658d0ebb924ffdbf4582edb44f947e8983d741/1.jpg)  
 
 ### 2. IoT-Based Load Control  
 ![IoT Load Control](images/2.jpg)  
