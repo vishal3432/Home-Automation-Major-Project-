@@ -64,4 +64,4 @@ This project proposes an efficient implementation of **IoT (Internet of Things)*
 ---
 
 ## 👨‍💻 Authors  
-**Team Project** – Led by *[Your Name]*, managed backend logic, database operations, and documentation.  
+**Team Project** – Led by *[Vishal Singh]*, managed backend logic, database operations, and documentation.  
