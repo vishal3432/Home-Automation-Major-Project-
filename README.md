@@ -51,7 +51,8 @@ This project proposes an efficient implementation of **IoT (Internet of Things)*
 ---
 
 ## 📸 Demo & Working (Optional)  
-!(https://github.com/vishal3432/Home-Automation-Major-Project-/blob/main/1.jpg)
+(<img src="Home%20Automation%20Prototype_1.jpg" alt="Circuit Diagram" width="200">)
+(<img src="Home%20Automation%20Prototype_2.jpg" alt="Circuit Diagram" width="200">)
 
 ---
 
