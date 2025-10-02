@@ -18,16 +18,16 @@ This project proposes an efficient implementation of **IoT (Internet of Things)*
 ## 🏗 IoT Architecture  
 
 ### 1. Auto Street Lighting  
-![Auto Street Lighting]<img src="1.png" alt="Circuit Diagram" width="500">
+![Auto Street Lighting]<img src="1.jpg" alt="Circuit Diagram" width="500">
 
 ### 2. IoT-Based Load Control  
-![IoT Load Control](<img src="2.png" alt="Circuit Diagram" width="500">)  
+![IoT Load Control](<img src="2.jpg" alt="Circuit Diagram" width="500">)  
 
 ### 3. Counter-Based Light & Door Opening System 
-![Counter System](<img src="3.png" alt="Circuit Diagram" width="500">)
+![Counter System](<img src="3.jpg" alt="Circuit Diagram" width="500">)
 
 ### 4. Door Opening System
-![Door System](<img src="4.png" alt="Circuit Diagram" width="500">)
+![Door System](<img src="4.jpg" alt="Circuit Diagram" width="500">)
 
 ---
 
