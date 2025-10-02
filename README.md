@@ -55,8 +55,12 @@ The IoT architecture used in this project follows **four layers**:
 
 ---
 
-## 📸 Demo & Working (Optional)  
-👉 *(You can add images, circuit diagrams, or GIFs of your project here)*  
+## 📸 Demo & Working   
+👉   ![1]("C:\Users\Vishal Singh\Downloads\1.jpg")
+      ![2]("C:\Users\Vishal Singh\Downloads\2.jpg")
+      ![3]("C:\Users\Vishal Singh\Downloads\3.jpg")
+      ![4]("C:\Users\Vishal Singh\Downloads\4.jpg")
+
 
 ---
 
@@ -68,6 +72,6 @@ The IoT architecture used in this project follows **four layers**:
 ---
 
 ## 👨‍💻 Authors  
-**Team Project** – Led by *[Your Name]*, managed backend logic, database operations, and documentation.  
+**Team Project** – Led by *[Vishal Singh]*, managed backend logic, database operations, and documentation.  
 
 ---
